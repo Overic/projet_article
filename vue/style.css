@@ -1,0 +1,43 @@
+*{margin: 0px;padding: 0px;font-size:small ;}
+
+.logo{margin: 40px 0px 25px 50px;}
+
+.linkmenu,.consulter a{color: white;}
+
+li{list-style-type: none;}
+
+a{text-decoration: none;}
+
+.direct,.consulter{background-color: red;}
+
+.direct{padding: 10px;font-style: italic;}
+
+.tete{margin-top: 4%;}
+
+.imgactu{width: 700px;height: 350px;margin-bottom:2%;}
+
+.enteteliste{color: rgb(0, 0, 0);background-color: rgb(136, 122, 122);text-align: center;padding: 2% 30% 2% 30%;}
+
+/* .listeActu{background-color: rgb(189, 192, 196);width:320px;}
+
+
+.listeActu li {padding: 50% 0% 4% 10%;} */
+
+/* .listeActu li a{color: black;} */
+
+/* ---------------------------------------------------------------------------- */
+
+.pro{color: red;}
+
+.img{width: 300px;height: 200px;}
+
+.com{margin-top: 15px;margin-left: 5px;}
+
+.consulter{font-size: small; padding: 0px 5px 0px 5px;border: none;position: relative;left: 130px;bottom: 10px;}
+
+.date{font-size: small;position: relative;bottom: 2px;left: 10px;}
+
+footer{margin-top: 500px;}
+
+
+
